@@ -9,9 +9,9 @@ cd
 mkdir repogit
 ls
 cd repogit
-git clone git@github.com:JoaquinSebastianMendez/TP1-ARQ.git
+git clone git@github.com:JoaquinSebastianMendez/TP1_AySO.git
 pwd
-cd TP1-ARQ/
+cd TP1_AySO/
 pwd
 ls -l
 cat /etc/os-release
